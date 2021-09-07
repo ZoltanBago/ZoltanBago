@@ -7,10 +7,8 @@
  
 <h3>LEARNING & USING</h3>
 
-[![python](https://img.shields.io/badge/Python-Language-blue)](https://python.org/)
-
-[![html](https://img.shields.io/badge/HTML-markup%20language-green)](https://html.com/)
-
+[![python](https://img.shields.io/badge/Python-Language-blue)](https://python.org/) [![html](https://img.shields.io/badge/HTML-markup%20language-green)](https://html.com/)
+[![css](https://img.shields.io/badge/CSS-markup%20language-orange)](https://html.com)
 
 
 
