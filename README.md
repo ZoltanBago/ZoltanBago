@@ -7,14 +7,12 @@
  
 <h3>LEARNING & USING</h3>
 
-[![npm](https://img.shields.io/badge/Python-Language-blue)](https://python.org/)
+[![python](https://img.shields.io/badge/Python-Language-blue)](https://python.org/)
 
-> <p>Python</p>
-> <p>HTML</p>
-> <p>CSS</p>
-> <p>JavaScript</p>
-> <p>Java</p>
-> <p>Jupyter Notebook</p>
+[![html](https://img.shields.io/badge/HTML-markup%20language-green)](https://html.com/)
+
+
+
 
 <!---
 ZoltanBago/ZoltanBago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
