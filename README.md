@@ -1,5 +1,7 @@
 <h3>INTRODUCTION</h3>
 
+[![zoltanbago](https://img.shields.io/badge/Zoltan-Bago-blue)](https://www.facebook.com/zoltanbago/)
+
 > <h3>👋 Hi, I’m Zoltan Bago</h3>
 > <p>👀 I’m interested in Python programming and space research. I'm freelancer amateur programmer.</p>   
 > <p>:student: I’m currently learning Python & Jupyter Notebook, HTML & CSS & JavaScript webdevelopment and Java.</p>
