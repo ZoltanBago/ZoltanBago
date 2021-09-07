@@ -7,6 +7,8 @@
  
 <h3>LEARNING & USING</h3>
 
+[![npm](https://img.shields.io/badge/Python-Language-blue)](https://python.org/)
+
 > <p>Python</p>
 > <p>HTML</p>
 > <p>CSS</p>
