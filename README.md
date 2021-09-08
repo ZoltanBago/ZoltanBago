@@ -1,10 +1,13 @@
 # INTRODUCTION
 
-[![zoltanbago](https://img.shields.io/badge/Zoltan-Bago-blue)](https://www.facebook.com/zoltanbago/)
+[![zoltanbago](https://img.shields.io/badge/Zoltan-Bago-blue)](https://www.facebook.com/zoltanbago/) 
 
-> ## 👋 Hi, I’m Zoltan Bago
-> ### 👀 I’m interested in Python programming and space research. I'm freelancer amateur programmer.   
-> ### :student: I’m currently learning Python & Jupyter Notebook, HTML & CSS & JavaScript webdevelopment and Java.
+> ## Hi, I’m Zoltan Bago
+
+> ### I’m interested in Python programming and space research. I'm freelancer amateur programmer.   
+
+> ### I’m currently learning Python & Jupyter Notebook, HTML & CSS & JavaScript webdevelopment and Java.
+
 > ### 🇭🇺 I'm hungarian. 
  
 # LEARNING & USING
@@ -13,6 +16,12 @@
 [![css](https://img.shields.io/badge/CSS-markup%20language-orange)](https://html.com) [![javascript](https://img.shields.io/badge/JavaScript-language-red)](https://javascript.com/) [![java](https://img.shields.io/badge/Java-language-brightgreen)](https://java.com/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) [![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue)](https://code.visualstudio.com/)
 
 # INTEREST
+
+> Microsoft Learn 
+
+> W3 School
+
+> Git & GitHub
 
 
 <!---
