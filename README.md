@@ -19,7 +19,7 @@
 
 > Microsoft Learn 
 
-> W3 School
+> W3 Schools
 
 > Git & GitHub
 
