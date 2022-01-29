@@ -5,6 +5,10 @@
 > #### Bagó Zoltánnak hívnak és 2021-ben adtam ki az első könyvemet Titkos égbolt címmel az Underground Kiadó gondozásában. A könyvem jelenleg csak e-könyv formájában érhető el.
 > #### Íróként tevékenykedem, de mellette érdekel a programozás is.
 > #### Elsősorban a Python programnyelvet tanulom a Jupyter Notebook segítségével. Ezen kivül érdekel a HTML, a CSS, a JavaScript és a Java programozás is.   
+> #### A szerzői blogom: https://bagozoltan.blogspot.com/
+> #### A Facebook szerzői profilom: https://www.facebook.com/zoltanbago/
+> #### A Facebook szerzői oldalam: https://www.facebook.com/bago.zoltan.szerzoi.oldal
+> #### Az Instagram oldalam: https://www.instagram.com/bago.zoltan/
 
 ## PROGRAMNYELVEK ÉS EGYÉB
 
