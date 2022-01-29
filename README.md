@@ -2,14 +2,10 @@
 
 [![zoltanbago](https://img.shields.io/badge/Zoltan-Bago-blue)](https://www.facebook.com/zoltanbago/) 
 
-> ## Hi, I’m Zoltan Bago
+> ## Bagó Zoltánnak hívnak és 2021-ben adtam ki az első könyvemet Titkos égbolt címmel az Underground Kiadó gondozásában. A könyvem jelenleg csak e-könyv formájában érhető el.
 
-> ### I’m interested in Python programming and space research. I'm freelancer amateur programmer.   
+> ### Elsősorban a Python programnyelvet tanulom a Jupyter Notebook segítségével. Ezen kivül érdekel a HTML, a CSS, a JavaScript és a Java programozás is.   
 
-> ### I’m currently learning Python & Jupyter Notebook, HTML & CSS & JavaScript webdevelopment and Java.
-
-> ### 🇭🇺 I'm hungarian. 
- 
 # LEARNING & USING
 
 [![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![html](https://img.shields.io/badge/HTML-markup%20language-green)](https://html.com/)
