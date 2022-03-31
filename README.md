@@ -1,6 +1,6 @@
 ## BEMUTATKOZÁS
 
-[![zoltanbago](https://img.shields.io/badge/Bagó_Zoltán-Facebook-blue)](https://www.facebook.com/zoltanbago/) 
+[![zoltanbago](https://img.shields.io/badge/Bagó_Zoltán-Facebook-blue)](https://www.facebook.com/zoltanbago/) [![szerzo](https://img.shields.io/badge/Bagó_Zoltán_szerzői_oldal-Facebook-blue)](https://www.facebook.com/bago.zoltan.szerzoi.oldal)
 
 > #### Bagó Zoltánnak hívnak és 2021-ben adtam ki az első könyvemet Titkos égbolt címmel az Underground Kiadó gondozásában. A könyvem jelenleg csak e-könyv formájában érhető el.
 > #### Íróként tevékenykedem, de mellette érdekel a programozás is.
