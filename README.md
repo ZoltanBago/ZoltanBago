@@ -13,7 +13,7 @@
 
 ## ÉRDEKLŐDÉS
 
-[![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) [![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue)](https://code.visualstudio.com/)
+[![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) [![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue)](https://code.visualstudio.com/) [![HTML](https://img.shields.io/badge/HTML-tag-blue)](https://w3schools.com)
 
 <!---
 ZoltanBago/ZoltanBago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
