@@ -11,6 +11,7 @@
 > #### A Facebook szerzői profilom: https://www.facebook.com/zoltanbago/
 > #### A Facebook szerzői oldalam: https://www.facebook.com/bago.zoltan.szerzoi.oldal
 > #### Az Instagram oldalam: https://www.instagram.com/bago.zoltan/
+> #### A LinkedIn oldalam: https://www.linkedin.com/in/zoltan-bago/
 
 ## ÉRDEKLŐDÉS
 
