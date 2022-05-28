@@ -1,6 +1,6 @@
 ## BEMUTATKOZÁS
 
-[![zoltanbago](https://img.shields.io/badge/Bagó_Zoltán-Facebook-blue)](https://www.facebook.com/zoltanbago/) [![szerzo](https://img.shields.io/badge/Bagó_Zoltán_szerzői_oldal-Facebook-blue)](https://www.facebook.com/bago.zoltan.szerzoi.oldal) [![insta](https://img.shields.io/badge/Bagó_Zoltán-Instagram-magenta)](https://www.instagram.com/bago.zoltan)
+[![zoltanbago](https://img.shields.io/badge/Bagó_Zoltán-Facebook-blue)](https://www.facebook.com/zoltanbago/) [![szerzo](https://img.shields.io/badge/Bagó_Zoltán_szerzői_oldal-Facebook-blue)](https://www.facebook.com/bago.zoltan.szerzoi.oldal) [![insta](https://img.shields.io/badge/Bagó_Zoltán-Instagram-magenta)](https://www.instagram.com/bago.zoltan) [![LinkedIn](https://img.shields.io/badge/Bagó_Zoltán-LinkedIn-blue)]([https://w3schools.com](https://www.linkedin.com/in/zoltan-bago/))
 
 > #### Bagó Zoltánnak hívnak és 2021-ben adtam ki az első könyvemet Titkos égbolt címmel az Underground Kiadó gondozásában. A könyvem jelenleg csak e-könyv formájában érhető el.
 > #### Íróként tevékenykedem, de mellette érdekel a programozás is.
