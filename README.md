@@ -6,7 +6,7 @@
 > #### Íróként tevékenykedem, de mellette érdekel a programozás is.
 > #### Elsősorban a Python programnyelvet tanulom a Jupyter Notebook és a Visual Studio Code segítségével.
 > #### Érdekel a HTML, CSS és a JavaScript is.    
-> #### A szerzői blogom: https://bagozoltan.blogspot.com/
+> #### A szerzői blogom: https://bagozoltan.blog.hu/
 > #### A Facebook szerzői profilom: https://www.facebook.com/zoltanbago/
 > #### A Facebook szerzői oldalam: https://www.facebook.com/bago.zoltan.szerzoi.oldal
 > #### Az Instagram oldalam: https://www.instagram.com/bago.zoltan/
