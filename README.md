@@ -5,7 +5,7 @@
 > #### Bagó Zoltánnak hívnak és 2021-ben adtam ki az első könyvemet Titkos égbolt címmel az Underground Kiadó gondozásában. A könyvem jelenleg csak e-könyv formájában érhető el.
 > #### Íróként tevékenykedem, de mellette érdekel a programozás is.
 > #### A Python programnyelvet a Jupyter Notebook és a Visual Studio Code segítségével tanulom.
-> #### Elsősorban a Python programnyelvet, a kliensoldali frontend és a szerveroldali backend (Full-Stack) technológiákat szeretném minél jobban elsajátítani. Folyamatosan képzem magam önállóan, mint szabaduszó webfejlesztő. Elvégeztem a 2022-es NIVE Újratervezés Program 3.0 alapozó képzését.    
+> #### Elsősorban a Python programnyelvet szeretném minél jobban elsajátítani. Folyamatosan képzem magam önállóan, mint szabaduszó programozó. Elvégeztem a 2022-es NIVE Újratervezés Program 3.0 alapozó képzését.    
 >  
 > <a href="https://bagozoltan.blog.hu/">A szerzői blogom</a><br>
 > <a href="https://www.facebook.com/zoltanbago/">A Facebook szerzői profilom</a><br> 
