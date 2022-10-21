@@ -6,7 +6,9 @@
 > #### Íróként tevékenykedem, de mellette érdekel a programozás is.
 > #### A Python programnyelvet a Jupyter Notebook és a Visual Studio Code segítségével tanulom.
 > #### Elsősorban a Python programnyelvet szeretném minél jobban elsajátítani. Folyamatosan képzem magam önállóan, mint szabaduszó programozó. Elvégeztem a 2022-es NIVE Újratervezés Program 3.0 alapozó képzését.    
->  
+
+## LINKEK
+
 > <a href="https://bagozoltan.blog.hu/">A szerzői blogom</a><br>
 > <a href="https://www.facebook.com/zoltanbago/">A Facebook szerzői profilom</a><br> 
 > <a href="https://www.facebook.com/bago.zoltan.szerzoi.oldal">A Facebook szerzői oldalam</a><br>
