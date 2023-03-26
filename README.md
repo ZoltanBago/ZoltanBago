@@ -6,6 +6,8 @@
 
 <a href="https://www.amazon.com/dp/B0BWV988XH">Project Secret Sky: Mysteries of the Third Reich</a>
 
+<img src="https://m.media-amazon.com/images/I/618FsNnK-GL._UX800_.jpg" width="200" height="300" alt="Project Secret Sky">
+
 <p> I am a writer, but I am also interested in programming. I learn Python with Jupyter Notebook and Visual Studio Code. First of all, I want to learn the Python programming language as much as possible. I am constantly training myself as a freelance programmer.</p>
 
 <a href="https://www.linkedin.com/in/zoltan-bago/">My Linkedin page</a>
