@@ -3,8 +3,8 @@
 [![zoltanbago](https://img.shields.io/badge/Bagó_Zoltán-Facebook-blue)](https://www.facebook.com/zoltanbago/) [![szerzo](https://img.shields.io/badge/Bagó_Zoltán_szerzői_oldal-Facebook-blue)](https://www.facebook.com/bago.zoltan.szerzoi.oldal) [![insta](https://img.shields.io/badge/Bagó_Zoltán-Instagram-magenta)](https://www.instagram.com/bago.zoltan) [![linkedin](https://img.shields.io/badge/Bagó_Zoltán-LinkedIn-blue)](https://www.linkedin.com/in/zoltan-bago/)
 
 > #### My name is Zoltan Bago. My first e-book in English, Project Secret Sky, was published by Amazon Kindle Direct Publishing in 2023.
-> <img src="https://undergroundbolt.hu/wp-content/uploads/2022/03/termek_cimlapfoto.png" width="200px" height="300px"><br>
-> <a href="https://undergroundbolt.hu/termek/titkos-egbolt-ekonyv/?fbclid=IwAR2Kz5mPHjDfaQ-6Rs_Sxw2sPCtYNn8gsO_M0igqbYyCvxSdzSaikDflFTw">Titkos égbolt</a>
+> <img src="" width="200px" height="300px" alt="Project Secret Sky"><br>
+> <a href="https://www.amazon.com/dp/B0BWV988XH">Project Secret Sky: Mysteries of the Third Reich</a>
 
 > #### I am a writer, but I am also interested in programming.
 > #### I learn Python with Jupyter Notebook and Visual Studio Code.
