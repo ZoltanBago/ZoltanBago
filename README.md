@@ -10,9 +10,10 @@
 
 <p> I am a writer, but I am also interested in programming. I learn Python with Jupyter Notebook and Visual Studio Code. First of all, I want to learn the Python programming language as much as possible. I am constantly training myself as a freelance programmer.</p>
 
-<a href="https://www.linkedin.com/in/zoltan-bago/">My Linkedin page</a>
+<a href="https://www.linkedin.com/in/zoltan-bago/">My Linkedin page</a><br>
+<a href="https://www.amazon.com/stores/Duke-Dyson/author/B0BWWDRBJ8?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true">My Amazon page</a>
 
-<h2>INTEREST</h2>
+<h2>Interest</h2>
 
 [![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) 
 
