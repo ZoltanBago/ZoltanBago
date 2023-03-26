@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/Zoltan_Bago-LinkedIn-blue)](https://www.linkedin.com/in/zoltan-bago/)
 
-<p>Duke Dyson is my writing pen name. My name is Zoltan Bago and I am Hungarian. In 2023, I published my first book in English through Amazon Kindle Direct Publishing. My book is currently only available as an e-book. As a writer, I would like to publish in the fields of paranormal, fantasy, science fiction and adventure novels. In terms of scope, I think in short stories and novels. My writings fall into the category of entertainment literature and philosophy.</p>
+<p><b>Duke Dyson</b> is my writing pen name. My name is Zoltan Bago and I am Hungarian. In 2023, I published my first book in English through <i>Amazon Kindle Direct Publishing</i>. My book is currently only available as an e-book. As a writer, I would like to publish in the fields of paranormal, fantasy, science fiction and adventure novels. In terms of scope, I think in short stories and novels. My writings fall into the category of entertainment literature and philosophy.</p>
 
 <a href="https://www.amazon.com/dp/B0BWV988XH">Project Secret Sky: Mysteries of the Third Reich</a>
 
