@@ -2,13 +2,13 @@
 
 [![zoltanbago](https://img.shields.io/badge/Bagó_Zoltán-Facebook-blue)](https://www.facebook.com/zoltanbago/) [![szerzo](https://img.shields.io/badge/Bagó_Zoltán_szerzői_oldal-Facebook-blue)](https://www.facebook.com/bago.zoltan.szerzoi.oldal) [![insta](https://img.shields.io/badge/Bagó_Zoltán-Instagram-magenta)](https://www.instagram.com/bago.zoltan) [![linkedin](https://img.shields.io/badge/Bagó_Zoltán-LinkedIn-blue)](https://www.linkedin.com/in/zoltan-bago/)
 
-> #### Bagó Zoltánnak hívnak és 2021-ben adtam ki az első könyvemet **Titkos égbolt** címmel az Underground Kiadó gondozásában. A könyvem jelenleg csak e-könyv formájában érhető el.
+> #### My name is Zoltan Bago. My first e-book in English, Project Secret Sky, was published by Amazon Kindle Direct Publishing in 2023.
 > <img src="https://undergroundbolt.hu/wp-content/uploads/2022/03/termek_cimlapfoto.png" width="200px" height="300px"><br>
 > <a href="https://undergroundbolt.hu/termek/titkos-egbolt-ekonyv/?fbclid=IwAR2Kz5mPHjDfaQ-6Rs_Sxw2sPCtYNn8gsO_M0igqbYyCvxSdzSaikDflFTw">Titkos égbolt</a>
 
-> #### Íróként tevékenykedem, de mellette érdekel a programozás is.
-> #### A Python programnyelvet a Jupyter Notebook és a Visual Studio Code segítségével tanulom.
-> #### Elsősorban a Python programnyelvet szeretném minél jobban elsajátítani. Folyamatosan képzem magam önállóan, mint szabaduszó programozó. Elvégeztem a 2022-es NIVE Újratervezés Program 3.0 alapozó képzését.    
+> #### I am a writer, but I am also interested in programming.
+> #### I learn Python with Jupyter Notebook and Visual Studio Code.
+> #### First of all, I want to learn the Python programming language as much as possible. I am constantly training myself as a freelance programmer.
 
 ## LINKEK
 
