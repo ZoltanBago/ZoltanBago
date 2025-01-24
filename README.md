@@ -11,7 +11,7 @@
 
 <hr>
 
-[![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) 
+[![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) [![debian](https://img.shields.io/badge/debian-red)](https://debian.org/) 
 
 <!---
 ZoltanBago/ZoltanBago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
