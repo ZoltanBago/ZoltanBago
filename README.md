@@ -6,13 +6,7 @@
 
 <p> I am a writer, but I am also interested in programming. I learn Debian Linux, Bash and Python with Jupyter Notebook and Visual Studio Code. First of all, I want to learn the Debian Linux System Administration and Python programming language as much as possible. I am constantly training myself as a freelance programmer.</p>
 
-<a href="https://www.linkedin.com/in/zoltan-bago/">My LinkedIn page</a><br>
-<a href="https://www.lulu.com/spotlight/zoltanbago">My Lulu page</a>
-
 <hr>
-
-[![python](https://img.shields.io/badge/Python-language-blue)](https://python.org/) [![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-web%20app-orange)](https://jupyter.org/) 
-[![debian](https://img.shields.io/badge/linux-red)](https://debian.org/) 
 
 <!---
 ZoltanBago/ZoltanBago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
