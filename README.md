@@ -34,7 +34,7 @@ Szabaduszó amatőr programozóként Debian Linux-ot, Bash-t és Python-t tanulo
 - Calibre 
 - Gedit 
 - PDF24 
-- Vs Code 
+- VS Code 
 - Nano 
 - ChatGPT 
 - HTML & CSS
@@ -57,7 +57,7 @@ Katedra Informatikai és Művészeti Szakközépiskola
 
 Egyetemi Kutató és Innovációs Központ 
 
-KÁRPÁT-MEDENCEI ONLINE OKTATASI CENTRUM
+KÁRPÁT-MEDENCEI ONLINE OKTATÁSI CENTRUM
 
 *Információs társadalom*
 
@@ -67,7 +67,7 @@ KÁRPÁT-MEDENCEI ONLINE OKTATASI CENTRUM
 
 Egyetemi Kutató és Innovációs Központ 
 
-KÁRPÁT-MEDENCEI ONLINE OKTATASI CENTRUM
+KÁRPÁT-MEDENCEI ONLINE OKTATÁSI CENTRUM
 
 *Művészettörténet*
 
@@ -77,7 +77,7 @@ KÁRPÁT-MEDENCEI ONLINE OKTATASI CENTRUM
 
 Egyetemi Kutató és Innovációs Központ 
 
-KÁRPÁT-MEDENCEI ONLINE OKTATASI CENTRUM
+KÁRPÁT-MEDENCEI ONLINE OKTATÁSI CENTRUM
 
 *Science Fiction az irodalomban és a kultúrában*
 
@@ -91,17 +91,17 @@ Tanúsítvány sorszáma: T/2022/202145-1
 
 ### KÖNYVEK
 
-**Duke Dyson**: Titkos Égbolt Projekt: A hidegháború rejtélyei, Draft2Digital, Lulu.com, 2025 
+**Duke Dyson**: Titkos Égbolt Projekt: A hidegháború rejtélyei, *Draft2Digital, Lulu.com*, 2025 
 
 **Duke Dyson**: Project Secret Sky: Mysteries of the UFO Phenomenon, *Draft2Digital, Lulu.com*, 2023
 
-**Duke Dyson**: Project_Secret Sky: Mysteries of the Third Reich, *Draft2Digital, Lulu.com*, 2023 
+**Duke Dyson**: Project Secret Sky: Mysteries of the Third Reich, *Draft2Digital, Lulu.com*, 2023 
 
 **Duke Dyson**: Titkos Égbolt Projekt: Az UFO jelenség rejtélyei, *Draft2Digital, Lulu.com*, 2023 
 
 **Duke Dyson**: Titkos Égbolt Projekt: A Harmadik Birodalom rejtélyei, *Draft2Digital, Lulu.com* 
 
-**Martin Howard Parker**: Titkos Égbolt: Az első" projekt, *Underground Kiadó*, 2021
+**Martin Howard Parker**: Titkos Égbolt: Az első projekt, *Underground Kiadó*, 2021
 
 ### KÉSZSÉGEK
 - Borító tervezés   
@@ -121,13 +121,13 @@ Tanúsítvány sorszáma: T/2022/202145-1
 
 *Draft2Digital & Lulu.com*
 
-Két magyar és két angol nyelvű elektronikus könyv kiadása
+Két magyar és két angol nyelvű elektronikus könyv kiadása.
 
 **2021** - jelenleg 
 
 *Ipsos - Populáció*
 
-Közvélemény-kutatásokban való rendszeres részvétel az Ipsos Populáció platformján
+Közvélemény-kutatásokban való rendszeres részvétel az Ipsos Populáció platformján.
 
 **2021 - 2023**
  
