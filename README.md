@@ -121,7 +121,7 @@ Tanúsítvány sorszáma: T/2022/202145-1
 
 *Draft2Digital & Lulu.com*
 
-Két magyar és két angol nyelvű elektronikus könyv kiadása.
+Három magyar és két angol nyelvű elektronikus könyv kiadása.
 
 **2021** - jelenleg 
 
