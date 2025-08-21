@@ -114,7 +114,8 @@ Tanúsítvány sorszáma: T/2022/202145-1
 
 ### KÉSZSÉGEK
 - Borító tervezés   
-- Szövegszerkesztés   
+- Szövegszerkesztés
+- Táblázatkezelés  
 - Korrektúra   
 - Digitális publikálás   
 - Dokumentum konvertálás offline és online   
