@@ -50,6 +50,15 @@ Katedra Informatikai és Művészeti Szakközépiskola
 *Grafika és számítógépes grafika*
 
 ### TANUSÍTVÁNYOK
+**2025**
+
+SKOLL AKADÉMIA
+
+SKOLL Learning Technologies Zrt.
+
+*EXCEL ALAP*
+
+Felnőttképzési nyilvántartási szám: B/2021/000892
 
 **2024** 
 
