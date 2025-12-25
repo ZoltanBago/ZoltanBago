@@ -5,7 +5,7 @@ Az irói álnevem Duke Dyson, az eredeti nevem Bagó Zoltán. 2023-ban adtam ki 
 
 Történetmeséléssel, világépítéssel és írással foglalkozom. 2021 óta írok és adok ki saját könyveket magyarul és angolul a nemzetközi könyvpiacon. Eddig 7 könyvem jelent meg. Az írás minden részét magam végzem: kézirat, szerkesztés, borítótervezés, publikálás és promóció. Nyitott vagyok távmunkás lehetőségekre, megbízásokra és együttműködésekre a kreatív írás, tartalomkészítés, fordítás és kiadás területén. Kreatív íróként, filozófiai érdeklődésű szerzőként és tartalomalkotóként olyan narratívákat hozok létre, amelyek összetett társadalmi és pszichológiai rétegeket ötvöznek. Szakterületeim közé tartozik a fantasy, sci-fi világépítés, paranormális és a kalandtörténetek, valamint a filozófiai témájú szövegalkotás.
 
-Szabaduszó amatőr programozóként Debian Linux-ot, Bash-t és Python-t tanulok, a Jupyter Notebook és Visual Studio Code segítségével. 
+Szabaduszó amatőr programozóként Debian Linuxot, Basht, Pythont és Dockert tanulok, a Jupyter Notebook és Visual Studio Code segítségével. 
 
 **Email**: bagozoltan1982@gmail.com 
 
