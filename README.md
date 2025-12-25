@@ -100,6 +100,8 @@ Tanúsítvány sorszáma: T/2022/202145-1
 
 ### KÖNYVEK
 
+**Duke Dyson**: Project Secret Sky: Mysteries of the Cold War, *Draft2Digital, Lulu.com*, 2025 
+
 **Duke Dyson**: Titkos Égbolt Projekt: A hidegháború rejtélyei, *Draft2Digital, Lulu.com*, 2025 
 
 **Duke Dyson**: Project Secret Sky: Mysteries of the UFO Phenomenon, *Draft2Digital, Lulu.com*, 2023
@@ -108,7 +110,7 @@ Tanúsítvány sorszáma: T/2022/202145-1
 
 **Duke Dyson**: Titkos Égbolt Projekt: Az UFO jelenség rejtélyei, *Draft2Digital, Lulu.com*, 2023 
 
-**Duke Dyson**: Titkos Égbolt Projekt: A Harmadik Birodalom rejtélyei, *Draft2Digital, Lulu.com* 
+**Duke Dyson**: Titkos Égbolt Projekt: A Harmadik Birodalom rejtélyei, *Draft2Digital, Lulu.com*, 2023 
 
 **Martin Howard Parker**: Titkos Égbolt: Az első projekt, *Underground Kiadó*, 2021
 
