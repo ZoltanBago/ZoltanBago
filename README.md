@@ -1,17 +1,11 @@
 # Bemutatkozás
 [![linkedin](https://img.shields.io/badge/Zoltan_Bago-LinkedIn-blue)](https://www.linkedin.com/in/zoltan-bago/)
 
-Az irói álnevem Duke Dyson, az eredeti nevem Bagó Zoltán. 2023-ban adtam ki első angol nyelvű könyvemet a Lulu.com és a Draft2Digital.com oldalakon. A könyveim csak e-könyvként (e-pub) érhetőek el. Paranormális, fantasy, sci-fi és kalandregények területén publikálok. Kisregényekben és regényekben gondolkodom. Írásaim a szórakoztató irodalom és a filozófia kategóriájába tartoznak.
-
-Történetmeséléssel, világépítéssel és írással foglalkozom. 2021 óta írok és adok ki saját könyveket magyarul és angolul a nemzetközi könyvpiacon. Eddig 7 könyvem jelent meg. Az írás minden részét magam végzem: kézirat, szerkesztés, borítótervezés, publikálás és promóció. Nyitott vagyok távmunkás lehetőségekre, megbízásokra és együttműködésekre a kreatív írás, tartalomkészítés, fordítás és kiadás területén. Kreatív íróként, filozófiai érdeklődésű szerzőként és tartalomalkotóként olyan narratívákat hozok létre, amelyek összetett társadalmi és pszichológiai rétegeket ötvöznek. Szakterületeim közé tartozik a fantasy, sci-fi világépítés, paranormális és a kalandtörténetek, valamint a filozófiai témájú szövegalkotás.
-
-Szabaduszó amatőr programozóként Debian Linuxot, Basht, Pythont és Dockert tanulok, a Jupyter Notebook és Visual Studio Code segítségével. 
+Kreatív író, szerkesztő és backend érdeklődésű webfejlesztő vagyok. Folyamatosan képzem magam és érdekelnek az IT szektorban rejlő lehetőségek. Az írás minden részét magam végzem. A kézirat szerkesztés, borító tervezés, publikálás és promóció. Nyitott vagyok a távmunkás lehetőségekre, megbízásokra és együttműködésekre a kreatív írás és a webfejlesztés területén.
 
 **Email**: bagozoltan1982@gmail.com 
 
 **Linkedin**: https://www.linkedin.com/in/zoltan-bago 
-
-**GitHub**: https://github.com/ZoltanBago
 
 **Levelezési cím**: 6423, Kelebia, Bajcsy Zsilinszky utca 38. 
 
@@ -22,24 +16,16 @@ Szabaduszó amatőr programozóként Debian Linuxot, Basht, Pythont és Dockert 
 - Angol (társalgási)
 
 ### IT ISMERETEK
-- Jupyter Notebook 
-- Vim 
+- Jupyter Notebook & Google Colab
 - Canva 
-- Bash 
-- Libre Office Writer 
-- ReText 
-- Python 
-- Bluefish 
+- Libre Office  
+- Python & Django/FastAPI
 - Linux (Debian) 
 - Calibre 
-- Gedit 
-- PDF24 
 - VS Code 
-- Nano 
-- ChatGPT 
-- HTML & CSS
-- Ghostwriter 
-- Gemini
+- ChatGPT & Gemini
+- HTML/CSS & JavaScript alapok
+- Markdown
 
 ### TANULMÁNYOK
 
@@ -50,45 +36,6 @@ Katedra Informatikai és Művészeti Szakközépiskola
 *Grafika és számítógépes grafika*
 
 ### TANUSÍTVÁNYOK
-**2025**
-
-SKOLL AKADÉMIA
-
-SKOLL Learning Technologies Zrt.
-
-*EXCEL ALAP*
-
-Felnőttképzési nyilvántartási szám: B/2021/000892
-
-**2024** 
-
-Óbudai Egyetem 
-
-Egyetemi Kutató és Innovációs Központ 
-
-KÁRPÁT-MEDENCEI ONLINE OKTATÁSI CENTRUM
-
-*Információs társadalom*
-
-**2024**
-
-Óbudai Egyetem 
-
-Egyetemi Kutató és Innovációs Központ 
-
-KÁRPÁT-MEDENCEI ONLINE OKTATÁSI CENTRUM
-
-*Művészettörténet*
-
-**2023** 
-
-Óbudai Egyetem 
-
-Egyetemi Kutató és Innovációs Központ 
-
-KÁRPÁT-MEDENCEI ONLINE OKTATÁSI CENTRUM
-
-*Science Fiction az irodalomban és a kultúrában*
 
 **2022**
 
