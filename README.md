@@ -1,7 +1,7 @@
 # Bemutatkozás
 [![linkedin](https://img.shields.io/badge/Zoltan_Bago-LinkedIn-blue)](https://www.linkedin.com/in/zoltan-bago/)
 
-Kreatív író, szerkesztő és backend érdeklődésű webfejlesztő vagyok. Folyamatosan képzem magam és érdekelnek az IT szektorban rejlő lehetőségek. Az írás minden részét magam végzem. A kézirat szerkesztés, borító tervezés, publikálás és promóció. Nyitott vagyok a távmunkás lehetőségekre, megbízásokra és együttműködésekre a kreatív írás és a webfejlesztés területén.
+Önállóan menedzseltem 6 digitális termék (e-könyv) teljes életciklusát a piackutatástól a UX dizájnon (borító, tördelés) át a disztribúcióig és a jogi/pénzügyi folyamatokig. Folyamatosan képzem magam és érdekelnek az IT szektorban rejlő lehetőségek. Nyitott vagyok a távmunkás lehetőségekre, megbízásokra és együttműködésekre.
 
 **Email**: bagozoltan1982@gmail.com 
 
@@ -16,15 +16,14 @@ Kreatív író, szerkesztő és backend érdeklődésű webfejlesztő vagyok. Fo
 - Angol (társalgási)
 
 ### IT ISMERETEK
-- Jupyter Notebook & Google Colab
-- Canva 
+- Python
+- Django & FastAPI 
 - Libre Office  
-- Python & Django/FastAPI
-- Linux (Debian) 
-- Calibre 
-- VS Code 
-- ChatGPT & Gemini
-- HTML/CSS & JavaScript alapok
+- Linux (Debian) & Bash
+- Docker
+- Git & GitHub 
+- AI Prompt
+- SQL & PostgreSQL
 - Markdown
 
 ### TANULMÁNYOK
