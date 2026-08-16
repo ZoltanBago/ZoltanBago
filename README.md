@@ -22,7 +22,6 @@
 - Linux (Debian) & Bash
 - Docker
 - Git & GitHub 
-- AI Prompt
 - SQL & PostgreSQL
 - Markdown
 
